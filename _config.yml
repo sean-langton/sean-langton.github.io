@@ -1,0 +1,20 @@
+# Site settings
+author: Sean Langton
+title: 
+header-img: img/home-bg.png
+email: slangton1@gmail.com
+copyright_name: Sean Langton
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  sean-langton
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
