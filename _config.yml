@@ -1,11 +1,11 @@
 # Site settings
 author: Sean Langton
-title: 
+title: A Coding Blog, I Guess
 header-img: img/home-bg.png
 email: slangton1@gmail.com
 copyright_name: Sean Langton
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Home for Contractually Obligated Thoughts About Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sean-langton
